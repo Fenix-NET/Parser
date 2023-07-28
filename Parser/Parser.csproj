@@ -11,4 +11,11 @@
     <PackageReference Include="AngleSharp" Version="1.0.4" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Model\DTOs\" />
+    <Folder Include="Services\" />
+    <Folder Include="Model\" />
+    <Folder Include="Data\" />
+  </ItemGroup>
+
 </Project>
